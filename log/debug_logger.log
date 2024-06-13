@@ -1,0 +1,2342 @@
+INFO 2022-09-02 10:48:24,015 views 14421 140006422869760 тест 
+
+INFO 2022-09-02 10:48:25,205 views 14421 140006422869760 тест 
+
+INFO 2022-09-02 10:48:25,374 views 14421 140006422869760 тест 
+
+INFO 2022-09-02 10:48:35,486 views 14421 140006422869760 тест 
+
+INFO 2022-09-02 10:48:45,694 views 14421 140006422869760 тест 
+
+INFO 2022-09-02 10:48:55,826 views 14421 140006422869760 тест 
+
+INFO 2022-09-02 10:49:06,022 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:49:16,381 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:49:26,616 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:49:36,737 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:49:46,839 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:49:56,957 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:50:07,132 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:50:17,290 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:50:27,412 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:50:37,668 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:50:47,822 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:50:57,947 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:51:08,068 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:51:18,177 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:51:28,417 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:51:38,552 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:51:48,669 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:51:58,837 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:52:08,961 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:52:19,077 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:52:29,206 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:52:39,350 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:52:49,446 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:52:59,570 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:53:09,704 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-02 10:53:19,867 views 14468 140458419287808 in define_service_point 
+
+INFO 2022-09-09 07:55:11,091 views 6414 140351692044032 
+
+ CALLS 2022-09-09 
+
+ 
+
+INFO 2022-09-09 07:55:11,096 views 6414 140351692044032 
+
+ ... <QuerySet []> 
+
+ 
+
+INFO 2022-10-03 16:32:31,426 views 4425 139828325775104 -----
+servery_ip
+
+ 
+
+INFO 2022-10-03 16:32:54,581 views 4901 140076998653696 -----
+servery_ip
+
+ 
+
+INFO 2022-10-03 16:33:26,596 views 4930 140427543017216 -----
+servery_ip
+
+ 
+
+INFO 2022-10-03 17:42:42,903 views 8235 139756937410304 -----
+[{'id': 17, 'title': 'Соус Белый', 'price': 50, 'quantity': 1, 'note': 'НЕ ГОТОВИТЬ. ТЕСТОВЫЙ ЗАКАЗ!!!!!'}]
+
+None
+
+test
+
+ 
+
+INFO 2022-10-04 17:15:56,535 views 11659 139854240478976 -----
+[{'id': 17, 'title': 'Соус Белый', 'price': 50, 'quantity': 1, 'note': 'НЕ ГОТОВИТЬ. ТЕСТОВЫЙ ЗАКАЗ!!!!!'}]
+
+None
+
+test
+
+ 
+
+INFO 2022-10-04 17:18:54,812 views 11833 140488600712960 -----
+[{'id': 17, 'title': 'Соус Белый', 'price': 50, 'quantity': 1, 'note': 'НЕ ГОТОВИТЬ. ТЕСТОВЫЙ ЗАКАЗ!!!!!'}]
+
+None
+
+test
+
+ 
+
+INFO 2022-10-25 12:53:59,974 views 11353 139952200312576 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2022-10-25 12:53:59,982 views 11353 139952200312576 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-10-25 12:53:59,992 views 11353 139952200312576 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 12:53:59,999 views 11353 139952200312576 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 12:54:00,002 views 11353 139952200312576 ready_orders END: <QuerySet []> 
+
+INFO 2022-10-25 12:54:37,984 views 11353 139951937136384 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2022-10-25 12:54:37,992 views 11353 139951937136384 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-10-25 12:54:38,003 views 11353 139951937136384 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 12:54:38,014 views 11353 139951937136384 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 12:54:38,017 views 11353 139951937136384 ready_orders END: <QuerySet []> 
+
+INFO 2022-10-25 12:57:12,730 views 11674 140605902878464 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2022-10-25 12:57:12,757 views 11674 140605902878464 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-10-25 12:57:12,777 views 11674 140605902878464 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 12:57:12,798 views 11674 140605902878464 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 12:57:12,801 views 11674 140605902878464 ready_orders END: <QuerySet []> 
+
+INFO 2022-10-25 13:03:43,936 views 12127 139662018017024 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2022-10-25 13:03:43,951 views 12127 139662018017024 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-10-25 13:03:43,971 views 12127 139662018017024 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 13:03:43,986 views 12127 139662018017024 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-10-25 13:03:43,990 views 12127 139662018017024 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:28:09,319 views 41750 140677073590016 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:28:09,329 views 41750 140677073590016 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:28:09,343 views 41750 140677073590016 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:28:09,355 views 41750 140677073590016 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:28:09,357 views 41750 140677073590016 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:28:22,921 views 41750 140677065197312 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:28:22,934 views 41750 140677065197312 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:28:22,953 views 41750 140677065197312 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:28:22,965 views 41750 140677065197312 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:28:22,968 views 41750 140677065197312 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:29:16,804 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:16,844 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:16,884 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:16,903 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:16,906 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:29:27,070 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:27,097 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:27,124 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:27,144 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:27,156 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:29:53,743 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:53,752 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:53,764 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:53,777 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:53,780 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:29:59,120 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:59,128 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:29:59,140 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:59,149 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:29:59,152 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:30:07,542 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:30:07,551 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:30:07,562 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:30:07,575 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:30:07,578 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:30:13,357 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:30:13,376 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:30:13,387 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:30:13,398 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:30:13,402 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:31:01,067 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:01,075 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:01,087 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:01,098 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:01,102 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:31:09,414 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:09,423 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:09,434 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:09,443 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:09,446 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:31:22,649 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:22,657 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:22,669 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:22,679 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:22,682 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:31:33,514 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:33,522 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:31:33,533 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:33,544 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:31:33,547 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:32:40,395 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:32:40,404 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:32:40,415 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:32:40,424 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:32:40,427 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:33:34,127 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:33:34,135 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:33:34,148 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:33:34,160 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:33:34,163 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:33:42,328 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:33:42,337 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:33:42,349 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:33:42,365 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:33:42,368 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 10:33:49,960 views 41851 140185249511168 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:33:49,969 views 41851 140185249511168 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 10:33:49,981 views 41851 140185249511168 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:33:49,996 views 41851 140185249511168 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 10:33:49,998 views 41851 140185249511168 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:44:42,585 views 44323 139985695078144 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:44:42,618 views 44323 139985695078144 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:44:42,642 views 44323 139985695078144 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 11:44:42,684 views 44323 139985695078144 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 11:44:42,688 views 44323 139985695078144 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:44:59,009 views 44370 140082027132672 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:44:59,035 views 44370 140082027132672 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:44:59,067 views 44370 140082027132672 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 11:44:59,087 views 44370 140082027132672 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-08 11:44:59,092 views 44370 140082027132672 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:45:45,329 views 44370 140082027132672 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 11:45:45,344 views 44370 140082027132672 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:45:45,377 views 44370 140082027132672 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:45:45,402 views 44370 140082027132672 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:45:45,405 views 44370 140082027132672 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:46:27,671 views 44458 140036182275840 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 11:46:27,680 views 44458 140036182275840 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:46:27,695 views 44458 140036182275840 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:46:27,709 views 44458 140036182275840 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:46:27,711 views 44458 140036182275840 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:46:51,116 views 44483 140384482653952 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 11:46:51,125 views 44483 140384482653952 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:46:51,141 views 44483 140384482653952 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:46:51,156 views 44483 140384482653952 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:46:51,159 views 44483 140384482653952 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:47:53,035 views 44521 139761281099520 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 11:47:53,071 views 44521 139761281099520 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:47:53,154 views 44521 139761281099520 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:47:53,236 views 44521 139761281099520 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:47:53,241 views 44521 139761281099520 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 11:48:19,244 views 44545 140288010254080 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 11:48:19,280 views 44545 140288010254080 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 11:48:19,315 views 44545 140288010254080 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:48:19,360 views 44545 140288010254080 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 11:48:19,365 views 44545 140288010254080 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:12,190 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:12,208 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:12,235 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:12,250 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:12,252 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:15,564 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:15,572 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:15,587 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:15,601 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:15,604 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:16,923 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:16,940 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:16,972 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:17,001 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:17,004 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:18,497 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:18,509 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:18,534 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:18,559 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:18,563 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:19,657 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:19,666 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:19,687 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:19,702 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:19,704 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:22,765 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:22,778 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:22,794 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:22,814 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:22,818 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:28:24,003 views 45163 140053581920000 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:28:24,013 views 45163 140053581920000 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:28:24,034 views 45163 140053581920000 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:24,054 views 45163 140053581920000 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:28:24,057 views 45163 140053581920000 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:40:41,986 views 45535 140568081229568 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:40:42,007 views 45535 140568081229568 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:40:42,106 views 45535 140568081229568 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:40:42,191 views 45535 140568081229568 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:40:42,196 views 45535 140568081229568 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:44:07,030 views 45610 140257308374784 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:44:07,040 views 45610 140257308374784 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:44:07,057 views 45610 140257308374784 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:44:07,072 views 45610 140257308374784 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:44:07,075 views 45610 140257308374784 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:45:36,644 views 45651 139947592120064 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:45:36,653 views 45651 139947592120064 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:45:36,666 views 45651 139947592120064 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:45:36,679 views 45651 139947592120064 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:45:36,682 views 45651 139947592120064 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:45:53,736 views 45651 139947592120064 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:45:53,767 views 45651 139947592120064 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:45:53,833 views 45651 139947592120064 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:45:53,876 views 45651 139947592120064 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:45:53,880 views 45651 139947592120064 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:45:59,808 views 45651 139947581241088 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:45:59,816 views 45651 139947581241088 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:45:59,830 views 45651 139947581241088 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:45:59,842 views 45651 139947581241088 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:45:59,845 views 45651 139947581241088 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:47:26,312 views 45735 140533369730816 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:47:26,324 views 45735 140533369730816 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:47:26,338 views 45735 140533369730816 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:47:26,351 views 45735 140533369730816 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:47:26,354 views 45735 140533369730816 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:48:02,444 views 45735 140533141862144 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:48:02,453 views 45735 140533141862144 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:48:02,468 views 45735 140533141862144 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:48:02,482 views 45735 140533141862144 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:48:02,485 views 45735 140533141862144 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:48:18,287 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:48:18,300 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:48:18,319 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:48:18,333 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:48:18,335 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:49:07,770 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:49:07,785 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:49:07,820 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:49:07,867 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:49:07,872 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:49:18,132 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:49:18,140 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:49:18,154 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:49:18,169 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:49:18,171 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:50:39,704 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:50:39,723 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:50:39,753 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:50:39,767 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:50:39,769 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:50:52,197 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:50:52,206 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:50:52,220 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:50:52,233 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:50:52,236 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:50:55,555 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:50:55,564 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:50:55,581 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:50:55,596 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:50:55,599 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:51:03,882 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:51:03,890 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:51:03,902 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:51:03,915 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:51:03,918 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:51:31,251 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:51:31,260 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:51:31,274 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:51:31,286 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:51:31,288 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:51:39,643 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:51:39,653 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:51:39,668 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:51:39,686 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:51:39,691 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:53:48,534 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:53:48,545 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:53:48,570 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:53:48,582 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:53:48,584 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:54:04,871 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:54:04,888 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:54:04,905 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:54:04,919 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:54:04,922 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:54:22,722 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:54:22,741 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:54:22,771 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:54:22,795 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:54:22,800 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:55:25,442 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:55:25,450 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:55:25,466 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:55:25,481 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:55:25,485 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:57:17,783 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:57:17,800 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:57:17,830 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:57:17,845 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:57:17,849 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:58:31,749 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:58:31,758 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:58:31,773 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:58:31,788 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:58:31,791 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:59:09,414 views 45735 140533359765248 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:59:09,423 views 45735 140533359765248 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:59:09,439 views 45735 140533359765248 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:59:09,453 views 45735 140533359765248 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:59:09,455 views 45735 140533359765248 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 12:59:14,408 views 45735 140533141862144 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 12:59:14,417 views 45735 140533141862144 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 12:59:14,431 views 45735 140533141862144 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:59:14,447 views 45735 140533141862144 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 12:59:14,451 views 45735 140533141862144 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:00:37,932 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:00:37,940 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:00:37,957 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:00:37,971 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:00:37,974 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:00:49,368 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:00:49,377 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:00:49,390 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:00:49,403 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:00:49,407 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:01:15,241 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:01:15,250 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:01:15,265 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:01:15,277 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:01:15,280 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:02:07,992 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:02:08,001 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:02:08,014 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:08,028 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:08,031 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:02:29,520 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:02:29,540 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:02:29,571 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:29,590 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:29,592 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:02:36,946 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:02:36,955 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:02:36,974 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:36,988 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:36,991 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:02:47,103 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:02:47,111 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:02:47,126 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:47,140 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:02:47,143 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:03:32,972 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:03:32,993 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:03:33,024 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:03:33,049 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:03:33,056 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:03:43,561 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:03:43,570 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:03:43,584 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:03:43,599 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:03:43,602 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:04:02,164 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:04:02,171 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:04:02,186 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:04:02,199 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:04:02,203 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:04:11,601 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:04:11,609 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:04:11,627 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:04:11,639 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:04:11,643 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 13:04:46,285 views 45735 140533133469440 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №11>, <Order: test №12>]>
+ 
+
+INFO 2022-11-08 13:04:46,293 views 45735 140533133469440 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-08 13:04:46,309 views 45735 140533133469440 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:04:46,326 views 45735 140533133469440 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №11>, <Order: test №12>]> 
+
+INFO 2022-11-08 13:04:46,329 views 45735 140533133469440 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-08 14:30:22,309 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:30:22,324 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:22,337 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:22,364 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:22,377 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:30:32,524 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:30:32,537 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:32,550 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:32,574 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:32,587 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:30:42,701 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:30:42,713 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:42,723 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:42,744 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:42,758 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:30:52,867 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:30:52,878 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:52,890 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:52,910 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:30:52,921 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:31:03,048 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:31:03,063 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:03,076 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:03,103 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:03,116 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:31:13,236 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:31:13,248 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:13,259 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:13,280 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:13,290 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:31:23,439 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:31:23,454 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:23,467 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:23,490 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:23,505 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:31:33,622 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:31:33,634 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:33,645 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:33,666 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:33,677 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:31:43,787 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:31:43,802 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:43,816 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:43,843 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:43,856 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:31:53,976 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:31:53,991 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:54,004 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:54,031 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:31:54,044 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:32:04,166 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:32:04,181 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:04,191 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:04,215 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:04,228 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:32:14,349 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:32:14,364 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:14,377 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:14,403 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:14,416 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:32:24,534 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:32:24,547 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:24,559 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:24,583 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:24,598 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:32:34,718 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:32:34,731 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:34,741 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:34,766 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:34,779 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:32:44,903 models 48986 139903908345600 display_number 2222   22 
+
+INFO 2022-11-08 14:32:44,917 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:44,931 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:44,958 models 48986 139903908345600 display_number 11   11 
+
+INFO 2022-11-08 14:32:44,972 models 48986 139903908345600 display_number 12   12 
+
+INFO 2022-11-08 14:32:55,095 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:32:55,110 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:32:55,124 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:32:55,149 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:32:55,161 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:33:05,314 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:33:05,328 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:05,341 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:05,366 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:05,378 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:33:15,493 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:33:15,508 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:15,521 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:15,548 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:15,563 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:33:25,690 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:33:25,704 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:25,718 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:25,744 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:25,757 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:33:35,875 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:33:35,887 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:35,902 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:35,924 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:35,935 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:33:46,049 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:33:46,061 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:46,071 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:46,092 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:46,107 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:33:56,257 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:33:56,290 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:56,321 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:56,347 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:33:56,359 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:34:06,470 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:34:06,482 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:06,493 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:06,514 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:06,524 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:34:16,635 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:34:16,650 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:16,663 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:16,691 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:16,705 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:34:26,821 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:34:26,835 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:26,847 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:26,873 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:26,886 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:34:37,001 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:34:37,013 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:37,024 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:37,045 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:37,056 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:34:47,162 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:34:47,176 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:47,190 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:47,216 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:47,227 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:34:57,348 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:34:57,362 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:57,376 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:57,403 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:34:57,417 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:35:07,560 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:35:07,573 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:07,586 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:07,616 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:07,629 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:35:17,748 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:35:17,761 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:17,773 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:17,802 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:17,815 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:35:27,945 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:35:27,959 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:27,972 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:27,999 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:28,012 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:35:38,138 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:35:38,152 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:38,166 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:38,192 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:38,205 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:35:48,328 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:35:48,342 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:48,356 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:48,383 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:48,393 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:35:58,511 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:35:58,526 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:58,539 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:58,565 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:35:58,578 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:36:08,696 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:36:08,707 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:08,718 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:08,740 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:08,752 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:36:18,869 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:36:18,888 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:18,907 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:18,930 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:18,953 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:36:29,128 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:36:29,143 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:29,156 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:29,182 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:29,195 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:36:39,315 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:36:39,330 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:39,344 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:39,369 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:39,385 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:36:49,514 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:36:49,529 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:49,542 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:49,568 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:49,581 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:36:59,703 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:36:59,717 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:59,732 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:59,760 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:36:59,773 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:37:09,889 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:37:09,901 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:09,916 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:09,942 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:09,957 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:37:20,078 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:37:20,092 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:20,106 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:20,133 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:20,147 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:37:30,264 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:37:30,278 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:30,291 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:30,315 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:30,329 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:37:40,453 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:37:40,465 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:40,476 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:40,498 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:40,509 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:37:50,620 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:37:50,635 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:50,647 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:50,674 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:37:50,687 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:38:00,810 models 49082 140306145244928 display_number 2222   22   2222C 
+
+INFO 2022-11-08 14:38:00,824 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:38:00,838 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:38:00,865 models 49082 140306145244928 display_number 11   11   11C 
+
+INFO 2022-11-08 14:38:00,877 models 49082 140306145244928 display_number 12   12   C12 
+
+INFO 2022-11-08 14:38:11,008 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:38:11,024 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:11,035 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:11,062 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:11,075 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:38:21,233 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:38:21,249 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:21,262 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:21,291 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:21,304 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:38:31,429 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:38:31,442 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:31,455 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:31,481 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:31,494 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:38:41,614 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:38:41,630 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:41,643 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:41,665 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:41,676 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:38:51,803 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:38:51,817 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:51,830 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:51,855 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:38:51,869 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:39:01,996 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:39:02,012 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:02,024 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:02,046 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:02,059 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:39:12,223 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:39:12,238 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:12,252 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:12,280 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:12,294 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:39:22,409 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:39:22,422 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:22,437 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:22,464 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:22,476 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:39:32,598 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:39:32,613 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:32,625 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:32,649 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:32,662 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:39:42,780 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:39:42,794 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:42,808 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:42,832 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:42,845 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:39:52,967 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:39:52,983 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:52,996 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:53,019 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:39:53,033 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:40:03,161 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:40:03,177 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:03,191 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:03,218 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:03,232 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:40:13,348 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:40:13,362 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:13,374 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:13,403 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:13,418 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:40:23,533 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:40:23,546 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:23,557 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:23,583 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:23,596 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:40:33,730 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:40:33,746 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:33,759 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:33,791 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:33,803 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-08 14:40:43,932 models 49277 140070605551360 display_number 2222   22   2222C22 
+
+INFO 2022-11-08 14:40:43,947 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:43,959 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:43,984 models 49277 140070605551360 display_number 11   11   11C11 
+
+INFO 2022-11-08 14:40:43,994 models 49277 140070605551360 display_number 12   12   C12 
+
+INFO 2022-11-09 12:22:35,022 views 73097 139695345825536 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2022-11-09 12:22:35,040 views 73097 139695345825536 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-09 12:22:35,059 views 73097 139695345825536 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-09 12:22:35,067 views 73097 139695345825536 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-09 12:22:35,080 views 73097 139695345825536 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-17 12:41:25,202 views 16892 140068193793792 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6734, in excel
+    salaries1.set_column(0, 0, 50)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 5902, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'set_column'
+
+
+ 
+
+INFO 2022-11-17 12:41:55,943 views 16945 140600740148992 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6734, in excel
+    salaries1.set_column(0, 0, 50)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 5902, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'set_column'
+
+
+ 
+
+INFO 2022-11-17 12:46:46,948 views 17164 140117586441984 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/compat/_optional.py", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'jinja2'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6735, in excel
+    salaries1.style.set_properties(subset=['title'], **{'width': '300px'})
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/frame.py", line 1263, in style
+    from pandas.io.formats.style import Styler
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/io/formats/style.py", line 56, in <module>
+    jinja2 = import_optional_dependency("jinja2", extra="DataFrame.style requires jinja2.")
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/compat/_optional.py", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'Jinja2'. DataFrame.style requires jinja2. Use pip or conda to install Jinja2.
+
+
+ 
+
+INFO 2022-11-17 12:47:29,084 views 17196 140512918599424 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6735, in excel
+    salaries1.set_option('max_colwidth', 400)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 5902, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'set_option'
+
+
+ 
+
+INFO 2022-11-17 13:05:07,809 views 18408 140237878884096 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6753, in excel
+    worksheet = writer.sheets['Menu']
+KeyError: 'Menu'
+
+
+ 
+
+INFO 2022-11-17 13:06:35,702 views 18470 140305832343296 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6755, in excel
+    worksheet.set_column('A:A', 70)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 5902, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'set_column'
+
+
+ 
+
+INFO 2022-11-17 13:07:04,161 views 18505 140223119161088 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6756, in excel
+    worksheet.set_column('A:A', 70)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 5902, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'set_column'
+
+
+ 
+
+INFO 2022-11-17 13:34:46,071 views 20172 140460935771904 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2022-11-17 13:34:46,082 views 20172 140460935771904 current_queue today_delivery_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]>
+ 
+
+INFO 2022-11-17 13:34:46,095 views 20172 140460935771904 open_orders: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-17 13:34:46,107 views 20172 140460935771904 open_orders END: <QuerySet [<Order: test №2222>, <Order: test №11>, <Order: test №11>]> 
+
+INFO 2022-11-17 13:34:46,112 views 20172 140460935771904 ready_orders END: <QuerySet []> 
+
+INFO 2022-11-17 13:50:15,521 views 22260 140451090953984 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6741, in excel
+    'MenuCategory': get_titles_ids_links(MenuCategory),
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6736, in get_titles_ids_links
+    return pd.DataFrame({'title': titles, 'id': ids, additionally[0]: additionally[1], 'link': links})
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/frame.py", line 662, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 493, in dict_to_mgr
+    return arrays_to_mgr(arrays, columns, index, dtype=dtype, typ=typ, consolidate=copy)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 118, in arrays_to_mgr
+    index = _extract_index(arrays)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 666, in _extract_index
+    raise ValueError("All arrays must be of the same length")
+ValueError: All arrays must be of the same length
+
+
+ 
+
+INFO 2022-11-17 13:51:21,867 views 22335 139630754100992 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6742, in excel
+    'MenuCategory': get_titles_ids_links(MenuCategory),
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6737, in get_titles_ids_links
+    return pd.DataFrame({'title': titles, 'id': ids, additionally[0]: additionally[1], 'link': links})
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/frame.py", line 662, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 493, in dict_to_mgr
+    return arrays_to_mgr(arrays, columns, index, dtype=dtype, typ=typ, consolidate=copy)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 118, in arrays_to_mgr
+    index = _extract_index(arrays)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 666, in _extract_index
+    raise ValueError("All arrays must be of the same length")
+ValueError: All arrays must be of the same length
+
+
+ 
+
+INFO 2022-11-17 13:53:15,971 views 22390 139952400234240 ERROR in excel 
+Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6744, in excel
+    'MenuCategory': get_titles_ids_links(MenuCategory),
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6739, in get_titles_ids_links
+    return pd.DataFrame({'title': titles, 'id': ids, additionally[0]: additionally[1], 'link': links})
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/frame.py", line 662, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 493, in dict_to_mgr
+    return arrays_to_mgr(arrays, columns, index, dtype=dtype, typ=typ, consolidate=copy)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 118, in arrays_to_mgr
+    index = _extract_index(arrays)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 666, in _extract_index
+    raise ValueError("All arrays must be of the same length")
+ValueError: All arrays must be of the same length
+
+
+ 
+
+INFO 2022-11-25 08:39:27,608 test 17038 139738041972544 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+INFO 2022-11-25 09:25:47,275 cooking_timer 19215 139936865875776 delivery_orders<QuerySet []> 
+
+INFO 2023-02-25 00:12:38,854 views 87716 139827848427264 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-02-25 00:12:38,858 views 87716 139827848427264 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-02-25 00:12:38,864 views 87716 139827848427264 open_orders: <QuerySet []> 
+
+INFO 2023-02-25 00:12:38,868 views 87716 139827848427264 open_orders END: <QuerySet []> 
+
+INFO 2023-02-25 00:12:38,871 views 87716 139827848427264 ready_orders END: <QuerySet []> 
+
+INFO 2023-02-25 00:12:43,605 views 87716 139827848427264 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-02-25 00:12:43,608 views 87716 139827848427264 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-02-25 00:12:43,613 views 87716 139827848427264 open_orders: <QuerySet []> 
+
+INFO 2023-02-25 00:12:43,617 views 87716 139827848427264 open_orders END: <QuerySet []> 
+
+INFO 2023-02-25 00:12:43,620 views 87716 139827848427264 ready_orders END: <QuerySet []> 
+
+INFO 2023-02-25 00:12:48,543 views 87716 139827848427264 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-02-25 00:12:48,546 views 87716 139827848427264 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-02-25 00:12:48,554 views 87716 139827848427264 open_orders: <QuerySet []> 
+
+INFO 2023-02-25 00:12:48,558 views 87716 139827848427264 open_orders END: <QuerySet []> 
+
+INFO 2023-02-25 00:12:48,561 views 87716 139827848427264 ready_orders END: <QuerySet []> 
+
+INFO 2023-04-15 04:17:58,222 views 60482 140426237441792 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-04-15 04:17:58,230 views 60482 140426237441792 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-04-15 04:17:58,236 views 60482 140426237441792 open_orders: <QuerySet []> 
+
+INFO 2023-04-15 04:17:58,241 views 60482 140426237441792 open_orders END: <QuerySet []> 
+
+INFO 2023-04-15 04:17:58,243 views 60482 140426237441792 ready_orders END: <QuerySet []> 
+
+INFO 2023-04-16 07:56:45,101 views 10885 140564777998080 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-04-16 07:56:45,107 views 10885 140564777998080 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-04-16 07:56:45,113 views 10885 140564777998080 open_orders: <QuerySet []> 
+
+INFO 2023-04-16 07:56:45,118 views 10885 140564777998080 open_orders END: <QuerySet []> 
+
+INFO 2023-04-16 07:56:45,120 views 10885 140564777998080 ready_orders END: <QuerySet []> 
+
+INFO 2023-04-17 07:56:16,164 yandex 54741 140544828581632 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 50, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-17 07:57:23,522 yandex 54875 139801319700224 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 50, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-17 08:15:51,305 yandex 55653 139866831075072 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 50, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-17 08:16:19,843 yandex 55692 140509683955456 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 50, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-17 08:17:22,065 yandex 55735 139867097282304 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 50, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-17 08:18:50,942 yandex 55780 140406815995648 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 50, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-20 13:00:27,526 yandex 34102 140176745789184 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-20 13:00:27,530 views 34102 140176745789184 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6926, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-04-20 13:01:04,546 yandex 34102 140176745789184 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-20 13:01:04,546 views 34102 140176745789184 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6926, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-04-20 17:56:05,497 yandex 74373 140521909503744 delivery_request ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-20 17:56:05,501 views 74373 140521909503744 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6929, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-04-21 21:41:57,178 views 53724 139745122858752 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6891, in api_delivery
+    order_items = list(json.loads(order_items))
+  File "/usr/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ 
+
+INFO 2023-04-21 21:55:26,703 yandex 54414 139825596323584 delivery_request ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-21 21:55:26,706 views 54414 139825596323584 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6932, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-04-21 21:58:18,653 yandex 55356 140082798835456 delivery_request ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-21 21:58:18,656 views 55356 140082798835456 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6932, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-04-21 21:58:42,556 yandex 55387 139648299710208 delivery_request ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-21 21:58:42,559 views 55387 139648299710208 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6931, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-04-21 21:59:01,900 yandex 55410 140281680705280 delivery_request ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 48, in delivery_request
+    "weight": menu_item.category.weight / 1000
+AttributeError: 'NoneType' object has no attribute 'weight'
+ 
+
+INFO 2023-04-21 21:59:01,903 views 55410 140281680705280 ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 6931, in api_delivery
+    daily_number, six_numbers = delivery_request(source, destination, order_items=order_items, price=full_price)
+TypeError: cannot unpack non-iterable NoneType object
+ 
+
+INFO 2023-05-08 19:32:03,863 get_old_call_records 17603 139741785155392 in get call records
+
+ 
+
+INFO 2023-05-08 19:34:10,263 get_old_call_records 17773 139762625087296 in get call records
+
+ 
+
+INFO 2023-05-08 19:36:31,733 get_old_call_records 17853 140336422512448 in get call records
+
+ 
+
+INFO 2023-05-08 19:37:42,783 get_old_call_records 17905 140215774807872 in get call records
+
+ 
+
+INFO 2023-05-25 12:50:59,892 views 23166 140291672893184 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 12:50:59,912 views 23166 140291672893184 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 12:50:59,918 views 23166 140291672893184 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 12:50:59,922 views 23166 140291672893184 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 12:50:59,925 views 23166 140291672893184 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:05:46,113 views 26488 140398731466496 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:05:46,116 views 26488 140398731466496 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:05:46,122 views 26488 140398731466496 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:05:46,126 views 26488 140398731466496 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:05:46,129 views 26488 140398731466496 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:20:27,645 views 26488 140398731466496 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:20:27,649 views 26488 140398731466496 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:20:27,654 views 26488 140398731466496 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:20:27,659 views 26488 140398731466496 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:20:27,661 views 26488 140398731466496 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:24:37,331 views 27594 139927364376320 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:24:37,335 views 27594 139927364376320 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:24:37,340 views 27594 139927364376320 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:24:37,344 views 27594 139927364376320 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:24:37,346 views 27594 139927364376320 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:30:10,423 views 28013 140358008182528 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:30:10,426 views 28013 140358008182528 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:30:10,431 views 28013 140358008182528 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:30:10,436 views 28013 140358008182528 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:30:10,440 views 28013 140358008182528 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:30:24,523 views 28013 140358008182528 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:30:24,526 views 28013 140358008182528 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:30:24,531 views 28013 140358008182528 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:30:24,536 views 28013 140358008182528 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:30:24,539 views 28013 140358008182528 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:37:47,916 views 28519 139873056626432 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:37:47,920 views 28519 139873056626432 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:37:47,925 views 28519 139873056626432 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:37:47,929 views 28519 139873056626432 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:37:47,932 views 28519 139873056626432 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:38:27,673 views 28556 139698106267392 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:38:27,676 views 28556 139698106267392 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:38:27,682 views 28556 139698106267392 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:38:27,686 views 28556 139698106267392 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:38:27,690 views 28556 139698106267392 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:38:52,679 views 28582 140258196846336 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:38:52,682 views 28582 140258196846336 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-05-25 13:38:52,689 views 28582 140258196846336 open_orders: <QuerySet []> 
+
+INFO 2023-05-25 13:38:52,694 views 28582 140258196846336 open_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:38:52,696 views 28582 140258196846336 ready_orders END: <QuerySet []> 
+
+INFO 2023-05-25 13:45:57,879 check_delivery_statuses 28996 139900398499648 in get call records
+
+ 
+
+INFO 2023-05-25 13:45:57,896 yandex 28996 139900398499648 confirm ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/apps/delivery/yandex.py", line 213, in check_delivery_status
+    res = requests.post(f'{url}/info?claim_id={history.claim_id}', json=data, headers=headers)
+AttributeError: 'DeliveryActive' object has no attribute 'claim_id'
+ 
+
+INFO 2023-06-29 10:37:07,348 views 33114 140655588308736 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-06-29 10:37:07,353 views 33114 140655588308736 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-06-29 10:37:07,362 views 33114 140655588308736 open_orders: <QuerySet []> 
+
+INFO 2023-06-29 10:37:07,370 views 33114 140655588308736 open_orders END: <QuerySet []> 
+
+INFO 2023-06-29 10:37:07,373 views 33114 140655588308736 ready_orders END: <QuerySet []> 
+
+INFO 2023-06-29 11:09:56,173 views 34523 140623922362112 res: (False, 'Сумма заказа меньше 500.0') 
+
+INFO 2023-08-09 08:17:27,360 views 10107 139771674547968 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-08-09 08:17:27,364 views 10107 139771674547968 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-08-09 08:17:27,370 views 10107 139771674547968 open_orders: <QuerySet []> 
+
+INFO 2023-08-09 08:17:27,375 views 10107 139771674547968 open_orders END: <QuerySet []> 
+
+INFO 2023-08-09 08:17:27,378 views 10107 139771674547968 ready_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:26:57,465 views 82137 139897750894336 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-08-11 00:26:57,474 views 82137 139897750894336 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-08-11 00:26:57,479 views 82137 139897750894336 open_orders: <QuerySet []> 
+
+INFO 2023-08-11 00:26:57,484 views 82137 139897750894336 open_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:26:57,487 views 82137 139897750894336 ready_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:27:34,527 views 82307 139812906907392 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-08-11 00:27:34,531 views 82307 139812906907392 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-08-11 00:27:34,544 views 82307 139812906907392 open_orders: <QuerySet []> 
+
+INFO 2023-08-11 00:27:34,556 views 82307 139812906907392 open_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:27:34,561 views 82307 139812906907392 ready_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:30:05,969 views 82307 139812897466112 current_queue regular_orders: <QuerySet [<Order: test №55>]>
+ 
+
+INFO 2023-08-11 00:30:05,973 views 82307 139812897466112 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-08-11 00:30:05,979 views 82307 139812897466112 open_orders: <QuerySet [<Order: test №55>]> 
+
+INFO 2023-08-11 00:30:05,985 views 82307 139812897466112 open_orders END: <QuerySet [<Order: test №55>]> 
+
+INFO 2023-08-11 00:30:05,988 views 82307 139812897466112 ready_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:45:41,211 views 83039 140656849565440 current_queue regular_orders: <QuerySet [<Order: test №33>]>
+ 
+
+INFO 2023-08-11 00:45:41,214 views 83039 140656849565440 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-08-11 00:45:41,221 views 83039 140656849565440 open_orders: <QuerySet [<Order: test №33>]> 
+
+INFO 2023-08-11 00:45:41,227 views 83039 140656849565440 open_orders END: <QuerySet [<Order: test №33>]> 
+
+INFO 2023-08-11 00:45:41,230 views 83039 140656849565440 ready_orders END: <QuerySet []> 
+
+INFO 2023-08-11 00:53:12,798 views 83039 140656613779200 make_order ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 3724, in make_order
+    servery = Servery.objects.get(ip_address=servery_ip)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/django/db/models/query.py", line 435, in get
+    raise self.model.DoesNotExist(
+shaw_queue.models.Servery.DoesNotExist: Servery matching query does not exist.
+ 
+
+INFO 2023-09-01 09:02:08,651 views 37387 140685582518016 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-09-01 09:02:08,660 views 37387 140685582518016 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-09-01 09:02:08,665 views 37387 140685582518016 open_orders: <QuerySet []> 
+
+INFO 2023-09-01 09:02:08,670 views 37387 140685582518016 open_orders END: <QuerySet []> 
+
+INFO 2023-09-01 09:02:08,672 views 37387 140685582518016 ready_orders END: <QuerySet []> 
+
+INFO 2023-09-01 09:02:11,600 views 37387 140685582518016 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-09-01 09:02:11,604 views 37387 140685582518016 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-09-01 09:02:11,609 views 37387 140685582518016 open_orders: <QuerySet []> 
+
+INFO 2023-09-01 09:02:11,614 views 37387 140685582518016 open_orders END: <QuerySet []> 
+
+INFO 2023-09-01 09:02:11,617 views 37387 140685582518016 ready_orders END: <QuerySet []> 
+
+INFO 2023-09-01 09:02:13,162 views 37387 140685582518016 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2023-09-01 09:02:13,166 views 37387 140685582518016 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-09-01 09:02:13,171 views 37387 140685582518016 open_orders: <QuerySet []> 
+
+INFO 2023-09-01 09:02:13,176 views 37387 140685582518016 open_orders END: <QuerySet []> 
+
+INFO 2023-09-01 09:02:13,180 views 37387 140685582518016 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-16 22:49:18,198 views 65122 140325639157504 current_queue regular_orders: <QuerySet [<Order: test №88>]>
+ 
+
+INFO 2023-10-16 22:49:18,204 views 65122 140325639157504 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-16 22:49:18,213 views 65122 140325639157504 open_orders: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-16 22:49:18,219 views 65122 140325639157504 open_orders END: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-16 22:49:18,222 views 65122 140325639157504 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-16 23:00:41,414 views 65931 139674140010240 current_queue regular_orders: <QuerySet [<Order: test №88>]>
+ 
+
+INFO 2023-10-16 23:00:41,419 views 65931 139674140010240 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-16 23:00:41,427 views 65931 139674140010240 open_orders: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-16 23:00:41,434 views 65931 139674140010240 open_orders END: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-16 23:00:41,437 views 65931 139674140010240 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-18 16:50:58,336 views 7037 140173702829824 current_queue regular_orders: <QuerySet [<Order: test №88>]>
+ 
+
+INFO 2023-10-18 16:50:58,345 views 7037 140173702829824 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-18 16:50:58,354 views 7037 140173702829824 open_orders: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 16:50:58,365 views 7037 140173702829824 open_orders END: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 16:50:58,368 views 7037 140173702829824 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-18 21:11:50,552 views 7037 140173683422976 current_queue regular_orders: <QuerySet [<Order: test №88>]>
+ 
+
+INFO 2023-10-18 21:11:50,559 views 7037 140173683422976 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-18 21:11:50,566 views 7037 140173683422976 open_orders: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 21:11:50,572 views 7037 140173683422976 open_orders END: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 21:11:50,575 views 7037 140173683422976 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-18 21:12:04,681 views 7037 140173683422976 current_queue regular_orders: <QuerySet [<Order: test №88>]>
+ 
+
+INFO 2023-10-18 21:12:04,684 views 7037 140173683422976 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-18 21:12:04,694 views 7037 140173683422976 open_orders: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 21:12:04,700 views 7037 140173683422976 open_orders END: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 21:12:04,704 views 7037 140173683422976 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-18 21:18:47,928 views 20958 139823977793280 current_queue regular_orders: <QuerySet [<Order: test №88>]>
+ 
+
+INFO 2023-10-18 21:18:47,932 views 20958 139823977793280 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-18 21:18:47,960 views 20958 139823977793280 open_orders: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 21:18:47,984 views 20958 139823977793280 open_orders END: <QuerySet [<Order: test №88>]> 
+
+INFO 2023-10-18 21:18:47,987 views 20958 139823977793280 ready_orders END: <QuerySet []> 
+
+INFO 2023-10-18 21:21:18,212 views 20986 140622908098304 current_queue regular_orders: <QuerySet [<Order: test №88>, <Order: test №88>, <Order: test №88>]>
+ 
+
+INFO 2023-10-18 21:21:18,216 views 20986 140622908098304 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2023-10-18 21:21:18,226 views 20986 140622908098304 open_orders: <QuerySet [<Order: test №88>, <Order: test №88>, <Order: test №88>]> 
+
+INFO 2023-10-18 21:21:18,235 views 20986 140622908098304 open_orders END: <QuerySet [<Order: test №88>, <Order: test №88>, <Order: test №88>]> 
+
+INFO 2023-10-18 21:21:18,238 views 20986 140622908098304 ready_orders END: <QuerySet []> 
+
+INFO 2024-03-04 10:27:07,714 views 155792 140389574395648 current_queue regular_orders: <QuerySet []>
+ 
+
+INFO 2024-03-04 10:27:07,730 views 155792 140389574395648 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2024-03-04 10:27:07,736 views 155792 140389574395648 open_orders: <QuerySet []> 
+
+INFO 2024-03-04 10:27:07,742 views 155792 140389574395648 open_orders END: <QuerySet []> 
+
+INFO 2024-03-04 10:27:07,745 views 155792 140389574395648 ready_orders END: <QuerySet []> 
+
+INFO 2024-03-04 10:28:18,459 views 155792 140389319173888 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2024-03-04 10:28:18,464 views 155792 140389319173888 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2024-03-04 10:28:18,472 views 155792 140389319173888 open_orders: <QuerySet [<Order: test №11>]> 
+
+INFO 2024-03-04 10:28:18,479 views 155792 140389319173888 open_orders END: <QuerySet [<Order: test №11>]> 
+
+INFO 2024-03-04 10:28:18,482 views 155792 140389319173888 ready_orders END: <QuerySet []> 
+
+INFO 2024-03-04 10:28:36,815 views 155792 140389319173888 current_queue regular_orders: <QuerySet [<Order: test №11>]>
+ 
+
+INFO 2024-03-04 10:28:36,819 views 155792 140389319173888 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2024-03-04 10:28:36,826 views 155792 140389319173888 open_orders: <QuerySet [<Order: test №11>]> 
+
+INFO 2024-03-04 10:28:36,832 views 155792 140389319173888 open_orders END: <QuerySet [<Order: test №11>]> 
+
+INFO 2024-03-04 10:28:36,836 views 155792 140389319173888 ready_orders END: <QuerySet []> 
+
+INFO 2024-03-04 10:41:47,641 views 155792 140389310781184 current_queue regular_orders: <QuerySet [<Order: test №11>, <Order: test №22>]>
+ 
+
+INFO 2024-03-04 10:41:47,649 views 155792 140389310781184 current_queue today_delivery_orders: <QuerySet []>
+ 
+
+INFO 2024-03-04 10:41:47,661 views 155792 140389310781184 open_orders: <QuerySet [<Order: test №11>, <Order: test №22>]> 
+
+INFO 2024-03-04 10:41:47,668 views 155792 140389310781184 open_orders END: <QuerySet [<Order: test №11>, <Order: test №22>]> 
+
+INFO 2024-03-04 10:41:47,672 views 155792 140389310781184 ready_orders END: <QuerySet []> 
+
+INFO 2024-03-04 10:53:53,513 views 155792 140389319173888 make_order ERROR: Traceback (most recent call last):
+  File "/home/main/Desktop/natruda/shawarma_quene/shawarma3/python3-shawarma/shaw_queue/views.py", line 4269, in make_order
+    servery = Servery.objects.get(ip_address=servery_ip)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/main/Desktop/natruda/shawarma_quene/venv/lib/python3.8/site-packages/django/db/models/query.py", line 435, in get
+    raise self.model.DoesNotExist(
+shaw_queue.models.Servery.DoesNotExist: Servery matching query does not exist.
+ 
+

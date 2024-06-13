@@ -1,0 +1,1688 @@
+ERROR 2022-08-09 20:07:52,875 basehttp 5676 140363011127040 "GET /shaw_queue/current_queue/ HTTP/1.1" 500 86599 
+
+ERROR 2022-08-09 20:44:31,973 basehttp 6994 140483309106944 "GET /shaw_queue/current_queue/ HTTP/1.1" 500 145352 
+
+ERROR 2022-08-09 20:46:25,790 basehttp 7118 140702892390144 "GET /shaw_queue/current_queue/ HTTP/1.1" 500 94465 
+
+ERROR 2022-08-14 19:56:45,290 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:45,502 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:46,400 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:46,616 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:47,510 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:47,749 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:48,619 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:48,861 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:49,723 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:49,988 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:50,824 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:51,105 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:51,930 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:52,217 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:53,033 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:53,325 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:54,149 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:54,442 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:55,292 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:55,556 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:56,400 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:56,677 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:57,508 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:57,799 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:58,620 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:56:58,919 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:56:59,723 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:00,038 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:00,832 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:01,158 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:01,945 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:02,278 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:03,052 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:03,393 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:04,165 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:04,509 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:05,312 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:05,637 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:06,418 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:06,750 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:07,525 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:07,863 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:08,632 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:08,989 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:09,787 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:10,099 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:10,893 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:11,217 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:12,013 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:12,355 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:13,118 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:13,472 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:14,220 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:14,579 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:15,329 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:15,687 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:16,445 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:16,793 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:17,558 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:17,902 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:18,665 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:19,024 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:19,774 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:20,134 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:20,877 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:21,246 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:21,998 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:22,358 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 19:57:23,114 basehttp 25654 140184279004928 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 144520 
+
+ERROR 2022-08-14 19:57:23,471 basehttp 25654 140183890548480 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 146763 
+
+ERROR 2022-08-14 20:16:20,698 basehttp 29796 140639096235776 "GET /shaw_queue/buyer_queue/vertical HTTP/1.1" 500 77128 
+
+ERROR 2022-08-14 20:16:36,350 basehttp 29796 140639096235776 "GET /shaw_queue/buyer_queue/vertical HTTP/1.1" 500 77000 
+
+ERROR 2022-08-23 15:18:58,928 basehttp 6344 140569416922880 "GET /shaw_queue/ajax/buyer_queue/vertical?is_voicing=0 HTTP/1.1" 500 191068 
+
+ERROR 2022-08-23 15:19:00,108 basehttp 6344 140569416922880 "GET /shaw_queue/ajax/buyer_queue/vertical?is_voicing=0 HTTP/1.1" 500 191068 
+
+ERROR 2022-08-23 15:19:01,300 basehttp 6344 140569416922880 "GET /shaw_queue/ajax/buyer_queue/vertical?is_voicing=0 HTTP/1.1" 500 191068 
+
+ERROR 2022-08-25 06:15:47,729 basehttp 4642 140225083340544 "GET /shaw_queue/ajax/buyer_queue/vertical?is_voicing=0 HTTP/1.1" 500 152176 
+
+ERROR 2022-08-25 06:15:47,816 basehttp 4642 140225074947840 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 147653 
+
+ERROR 2022-08-25 06:15:48,201 basehttp 4642 140225074947840 "GET /shaw_queue/buyer_queue/black/vertical HTTP/1.1" 500 179606 
+
+ERROR 2022-08-25 06:15:49,743 basehttp 4642 140225074947840 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 147653 
+
+ERROR 2022-08-25 06:15:51,742 basehttp 4642 140225074947840 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 147653 
+
+ERROR 2022-08-25 06:15:53,743 basehttp 4642 140225074947840 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 147653 
+
+ERROR 2022-08-25 06:15:55,742 basehttp 4642 140225074947840 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 147653 
+
+ERROR 2022-08-25 06:15:57,741 basehttp 4642 140225074947840 "GET /shaw_queue/ajax/buyer_queue?is_voicing=0 HTTP/1.1" 500 147653 
+
+ERROR 2022-10-03 17:42:43,496 basehttp 8235 139756937410304 "GET /shaw_queue/order-from-site/ HTTP/1.1" 500 94614 
+
+ERROR 2022-10-04 17:15:57,099 basehttp 11659 139854240478976 "POST /shaw_queue/order-from-site/ HTTP/1.1" 500 94229 
+
+ERROR 2022-10-04 17:18:55,278 basehttp 11833 140488600712960 "POST /shaw_queue/order-from-site/ HTTP/1.1" 500 94040 
+
+ERROR 2022-10-06 16:15:46,763 basehttp 12569 140208958519040 "GET /admin/shaw_queue/calldata/?q=gfjf HTTP/1.1" 500 177841 
+
+ERROR 2022-10-15 12:42:53,607 basehttp 11556 140095825049344 "GET /shaw_queue/buyer_queue/new HTTP/1.1" 500 167956 
+
+ERROR 2022-10-15 12:44:07,409 basehttp 11556 140095575283456 "GET /shaw_queue/buyer_queue/new HTTP/1.1" 500 171615 
+
+ERROR 2022-10-15 12:44:08,387 basehttp 11556 140095575283456 "GET /shaw_queue/buyer_queue/new HTTP/1.1" 500 171615 
+
+ERROR 2022-10-17 21:47:57,693 basehttp 11532 140089736812288 "POST /admin/shaw_queue/delivery/add/ HTTP/1.1" 500 148167 
+
+ERROR 2022-10-17 21:48:09,760 basehttp 11532 140089736812288 "POST /admin/shaw_queue/delivery/add/ HTTP/1.1" 500 148224 
+
+ERROR 2022-10-18 00:07:34,682 basehttp 20857 140051014997760 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227442 
+
+ERROR 2022-10-18 00:07:35,794 basehttp 20857 140051014997760 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227707 
+
+ERROR 2022-10-18 00:07:36,794 basehttp 20857 140050989819648 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227707 
+
+ERROR 2022-10-18 00:07:37,208 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224852 
+
+ERROR 2022-10-18 00:07:47,159 basehttp 20857 140050989819648 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227442 
+
+ERROR 2022-10-18 00:07:47,566 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224852 
+
+ERROR 2022-10-18 00:07:57,539 basehttp 20857 140050989819648 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227442 
+
+ERROR 2022-10-18 00:07:57,910 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224852 
+
+ERROR 2022-10-18 00:08:07,925 basehttp 20857 140050989819648 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227442 
+
+ERROR 2022-10-18 00:08:08,271 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224852 
+
+ERROR 2022-10-18 00:08:18,349 basehttp 20857 140050989819648 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227442 
+
+ERROR 2022-10-18 00:08:18,689 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224852 
+
+ERROR 2022-10-18 00:08:28,744 basehttp 20857 140050989819648 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227442 
+
+ERROR 2022-10-18 00:08:29,082 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224852 
+
+ERROR 2022-10-18 00:08:32,798 basehttp 20857 140051031783168 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227689 
+
+ERROR 2022-10-18 00:08:39,453 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224834 
+
+ERROR 2022-10-18 00:08:43,366 basehttp 20857 140051031783168 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227424 
+
+ERROR 2022-10-18 00:08:49,815 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224834 
+
+ERROR 2022-10-18 00:08:53,726 basehttp 20857 140051031783168 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 227424 
+
+ERROR 2022-10-18 00:09:00,188 basehttp 20857 140050981426944 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 224834 
+
+ERROR 2022-11-08 11:44:43,762 basehttp 44323 139985695078144 "GET /shaw_queue/current_queue HTTP/1.1" 500 89101 
+
+ERROR 2022-11-08 11:46:28,077 basehttp 44458 140036182275840 "GET /shaw_queue/current_queue HTTP/1.1" 500 92996 
+
+ERROR 2022-11-08 11:47:54,425 basehttp 44521 139761281099520 "GET /shaw_queue/current_queue HTTP/1.1" 500 89371 
+
+ERROR 2022-11-21 05:34:24,194 basehttp 64747 140323958970112 "POST /admin/shaw_queue/cookingtime/add/ HTTP/1.1" 500 143994 
+
+ERROR 2022-11-25 14:10:46,822 basehttp 30723 140356609545984 "GET /shaw_queue/order/1c_payment_result/ HTTP/1.1" 500 78657 
+
+ERROR 2022-11-25 14:11:49,955 basehttp 30829 140231457445632 "GET /shaw_queue/order/1c_payment_result/ HTTP/1.1" 500 704 
+
+ERROR 2022-11-28 09:53:52,576 basehttp 16406 140536606652160 "POST /admin/main/excelbase/ HTTP/1.1" 500 120692 
+
+ERROR 2022-11-28 09:56:10,107 basehttp 16760 139639114135296 "POST /admin/main/excelbase/ HTTP/1.1" 500 158550 
+
+ERROR 2022-11-28 09:56:38,749 basehttp 16796 140438352164608 "POST /admin/main/excelbase/ HTTP/1.1" 500 170427 
+
+ERROR 2022-11-28 10:01:49,453 basehttp 16796 140438352164608 "POST /admin/main/excelbase/ HTTP/1.1" 500 170427 
+
+ERROR 2022-11-28 10:15:45,577 basehttp 17760 140046440134400 "POST /admin/main/excelbase/ HTTP/1.1" 500 199838 
+
+ERROR 2022-11-28 10:20:17,644 basehttp 17840 140717334886144 "POST /admin/main/excelbase/ HTTP/1.1" 500 199852 
+
+ERROR 2022-11-28 10:20:44,388 basehttp 17988 140694857185024 "POST /admin/main/excelbase/ HTTP/1.1" 500 199996 
+
+ERROR 2022-11-28 10:27:16,354 basehttp 18155 140704103364352 "POST /admin/main/excelbase/ HTTP/1.1" 500 137331 
+
+ERROR 2022-11-28 11:56:39,732 basehttp 20122 140384571586304 "POST /admin/main/excelbase/ HTTP/1.1" 500 160159 
+
+ERROR 2022-11-28 11:59:08,245 basehttp 20309 140074663671552 "POST /admin/main/excelbase/ HTTP/1.1" 500 129522 
+
+ERROR 2022-11-28 12:01:14,945 basehttp 20462 140284566664960 "POST /admin/main/excelbase/ HTTP/1.1" 500 129640 
+
+ERROR 2022-11-28 12:13:00,530 basehttp 22081 139666867255040 "POST /admin/main/excelbase/ HTTP/1.1" 500 133658 
+
+ERROR 2022-11-28 12:14:01,642 basehttp 22142 140510459066112 "POST /admin/main/excelbase/ HTTP/1.1" 500 133658 
+
+ERROR 2022-11-28 12:37:17,107 basehttp 22847 140136741664512 "POST /admin/main/excelbase/ HTTP/1.1" 500 125787 
+
+ERROR 2022-11-28 12:37:49,917 basehttp 22879 139710967314176 "POST /admin/main/excelbase/ HTTP/1.1" 500 217018 
+
+ERROR 2022-11-28 12:38:55,145 basehttp 22933 140576735131392 "POST /admin/main/excelbase/ HTTP/1.1" 500 218246 
+
+ERROR 2022-11-28 12:41:06,340 basehttp 23116 139800580978432 "POST /admin/main/excelbase/ HTTP/1.1" 500 218893 
+
+ERROR 2022-11-28 12:42:03,195 basehttp 23160 140574059984640 "POST /admin/main/excelbase/ HTTP/1.1" 500 218893 
+
+ERROR 2022-11-28 12:42:45,009 basehttp 23200 140189240751872 "POST /admin/main/excelbase/ HTTP/1.1" 500 218456 
+
+ERROR 2022-11-28 12:44:21,972 basehttp 23274 140199041890048 "POST /admin/main/excelbase/ HTTP/1.1" 500 218917 
+
+ERROR 2022-11-28 12:45:20,032 basehttp 23344 140479924532992 "POST /admin/main/excelbase/ HTTP/1.1" 500 219388 
+
+ERROR 2022-11-28 12:46:13,071 basehttp 23404 140419219584768 "POST /admin/main/excelbase/ HTTP/1.1" 500 218955 
+
+ERROR 2022-11-28 12:46:52,417 basehttp 23442 139711528040192 "POST /admin/main/excelbase/ HTTP/1.1" 500 218933 
+
+ERROR 2022-11-28 13:05:41,925 basehttp 24387 140405781133056 "GET /admin/shaw_queue/menu/ HTTP/1.1" 500 444120 
+
+ERROR 2022-11-28 13:49:13,224 basehttp 26556 139695106717440 "POST /admin/main/excelbase/ HTTP/1.1" 500 143964 
+
+ERROR 2022-11-28 13:49:48,803 basehttp 26556 139695106717440 "POST /admin/main/excelbase/ HTTP/1.1" 500 230127 
+
+ERROR 2022-11-28 13:50:42,188 basehttp 26642 140217550010112 "POST /admin/main/excelbase/ HTTP/1.1" 500 230562 
+
+ERROR 2022-11-28 13:52:10,280 basehttp 26719 140609869215488 "POST /admin/main/excelbase/ HTTP/1.1" 500 127677 
+
+ERROR 2022-11-28 13:53:02,616 basehttp 26766 140237250361088 "POST /admin/main/excelbase/ HTTP/1.1" 500 128185 
+
+ERROR 2022-11-28 13:53:40,042 basehttp 26812 140120267060992 "POST /admin/main/excelbase/ HTTP/1.1" 500 128181 
+
+ERROR 2022-11-28 13:54:33,177 basehttp 26812 140120267060992 "POST /admin/main/excelbase/ HTTP/1.1" 500 128010 
+
+ERROR 2022-12-01 11:04:57,306 basehttp 4404 140601727121152 "POST /admin/main/excelbase/ HTTP/1.1" 500 130799 
+
+ERROR 2022-12-01 11:08:04,052 basehttp 5041 140241937000192 "POST /admin/main/excelbase/ HTTP/1.1" 500 130835 
+
+ERROR 2022-12-01 11:08:32,158 basehttp 5078 139758825137920 "POST /admin/main/excelbase/ HTTP/1.1" 500 130841 
+
+ERROR 2022-12-01 11:10:33,134 basehttp 5221 140156376901376 "POST /admin/main/excelbase/ HTTP/1.1" 500 130980 
+
+ERROR 2022-12-01 11:11:27,345 basehttp 5285 139995440998144 "POST /admin/main/excelbase/ HTTP/1.1" 500 202995 
+
+ERROR 2022-12-13 00:37:13,320 basehttp 20922 140578542618368 "GET /admin/shaw_queue/order/20/change/ HTTP/1.1" 500 172416 
+
+ERROR 2022-12-13 02:33:01,533 basehttp 25345 140502172698368 "GET /admin/shaw_queue/order/20/change/ HTTP/1.1" 500 169793 
+
+ERROR 2022-12-13 02:35:28,473 basehttp 25513 140240122283776 "GET /admin/shaw_queue/order/20/change/ HTTP/1.1" 500 144639 
+
+ERROR 2022-12-13 02:37:37,468 basehttp 25681 140630181279488 "GET /admin/shaw_queue/order/20/change/ HTTP/1.1" 500 169921 
+
+ERROR 2022-12-13 02:45:16,998 basehttp 26115 139642441991936 "GET /admin/shaw_queue/order/20/change/ HTTP/1.1" 500 170050 
+
+ERROR 2022-12-21 23:06:09,698 basehttp 126911 139729773258496 "POST /admin/main/excelbase/ HTTP/1.1" 500 129617 
+
+ERROR 2022-12-21 23:09:07,162 basehttp 127476 140151807198976 "POST /admin/main/excelbase/ HTTP/1.1" 500 129711 
+
+ERROR 2022-12-21 23:11:06,589 basehttp 127819 140199306577664 "POST /admin/main/excelbase/ HTTP/1.1" 500 210717 
+
+ERROR 2023-03-18 10:26:37,418 basehttp 97500 139709591860992 "POST /admin/sms/smshistory/ HTTP/1.1" 500 124298 
+
+ERROR 2023-03-18 10:44:37,572 basehttp 99246 140660087637760 "POST /admin/sms/smshistory/ HTTP/1.1" 500 129657 
+
+ERROR 2023-04-07 09:39:25,812 basehttp 59886 139756537046784 "POST /admin/shaw_queue/servicepoint/ HTTP/1.1" 500 129340 
+
+ERROR 2023-04-13 20:20:26,365 basehttp 19776 140448735561472 "GET /shaw_queue/delivery/create HTTP/1.1" 500 83894 
+
+ERROR 2023-04-13 20:20:47,943 basehttp 19802 139845105878784 "GET /shaw_queue/delivery/create HTTP/1.1" 500 134759 
+
+ERROR 2023-04-16 10:53:47,742 basehttp 18389 139856810338048 "POST /admin/shaw_queue/menu/add/ HTTP/1.1" 500 210991 
+
+ERROR 2023-04-16 10:54:09,617 basehttp 18389 139856810338048 "POST /admin/shaw_queue/menu/add/ HTTP/1.1" 500 211233 
+
+ERROR 2023-04-16 13:26:02,073 basehttp 24633 140076299237120 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 120806 
+
+ERROR 2023-04-16 13:31:20,563 basehttp 24950 140576846591744 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 120804 
+
+ERROR 2023-04-16 13:34:37,968 basehttp 25221 139897285375744 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 105984 
+
+ERROR 2023-04-16 13:36:28,466 basehttp 25287 139920938481408 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 105792 
+
+ERROR 2023-04-16 13:37:10,116 basehttp 25336 140125240211200 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 94149 
+
+ERROR 2023-04-16 13:38:35,006 basehttp 25391 140249296320256 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 90005 
+
+ERROR 2023-04-16 13:40:37,394 basehttp 25535 140268888340224 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 94769 
+
+ERROR 2023-04-16 13:41:57,936 basehttp 25677 140307208189696 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 106149 
+
+ERROR 2023-04-16 13:45:15,733 basehttp 25803 140629007775488 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 94858 
+
+ERROR 2023-04-16 16:40:55,201 basehttp 30447 140260111267584 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 85087 
+
+ERROR 2023-04-17 00:12:43,635 basehttp 41181 140097444820736 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 94779 
+
+ERROR 2023-04-17 01:17:01,576 basehttp 41181 140097150490368 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 99348 
+
+ERROR 2023-04-17 01:17:39,607 basehttp 44901 139742960662272 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 99344 
+
+ERROR 2023-04-17 01:18:12,194 basehttp 44901 139742708483840 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 99158 
+
+ERROR 2023-04-17 07:56:16,529 basehttp 54741 140544828581632 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 91883 
+
+ERROR 2023-04-17 07:57:23,911 basehttp 54875 139801319700224 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 91883 
+
+ERROR 2023-04-17 08:15:51,984 basehttp 55653 139866831075072 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 92365 
+
+ERROR 2023-04-17 08:16:20,821 basehttp 55692 140509683955456 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 92365 
+
+ERROR 2023-04-17 08:17:22,859 basehttp 55735 139867097282304 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 92365 
+
+ERROR 2023-04-17 08:18:51,788 basehttp 55780 140406815995648 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 92414 
+
+ERROR 2023-04-20 13:00:27,796 basehttp 34102 140176745789184 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 85037 
+
+ERROR 2023-04-20 13:01:04,606 basehttp 34102 140176745789184 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 85037 
+
+ERROR 2023-04-20 17:56:05,802 basehttp 74373 140521909503744 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 85010 
+
+ERROR 2023-04-21 17:59:49,700 basehttp 27852 139733995271936 "GET /shaw_queue/menu/ HTTP/1.1" 500 196584 
+
+ERROR 2023-04-21 18:00:05,442 basehttp 27852 139733995271936 "GET /shaw_queue/menu/ HTTP/1.1" 500 196676 
+
+ERROR 2023-04-21 19:52:38,848 basehttp 45956 140294410454784 "GET /shaw_queue/menu/ HTTP/1.1" 500 197240 
+
+ERROR 2023-04-21 21:41:57,418 basehttp 53724 139745122858752 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 83701 
+
+ERROR 2023-04-21 21:55:26,938 basehttp 54414 139825596323584 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 84399 
+
+ERROR 2023-04-21 21:58:19,131 basehttp 55356 140082798835456 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 84399 
+
+ERROR 2023-04-21 21:58:43,359 basehttp 55387 139648299710208 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 84399 
+
+ERROR 2023-04-21 21:59:02,763 basehttp 55410 140281680705280 "POST /shaw_queue/api/delivery/create/ HTTP/1.1" 500 84399 
+
+ERROR 2023-04-27 11:05:36,936 basehttp 20990 139956980733696 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81750 
+
+ERROR 2023-04-27 11:05:37,439 basehttp 20990 139956980733696 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81750 
+
+ERROR 2023-04-28 18:08:47,944 basehttp 17295 140506687342336 "GET /admin/shaw_queue/order/?q=15%3A05%3A14 HTTP/1.1" 500 188905 
+
+ERROR 2023-04-28 18:09:26,522 basehttp 17295 140506687342336 "GET /admin/shaw_queue/order/?q=15%3A05 HTTP/1.1" 500 188672 
+
+ERROR 2023-04-28 18:09:34,838 basehttp 17295 140506687342336 "GET /admin/shaw_queue/order/?q=test HTTP/1.1" 500 188573 
+
+ERROR 2023-04-28 18:10:10,066 basehttp 17443 139702166296320 "GET /admin/shaw_queue/order/?q=test HTTP/1.1" 500 188144 
+
+ERROR 2023-04-28 18:10:20,982 basehttp 17443 139702166296320 "GET /admin/shaw_queue/order/?q=branch HTTP/1.1" 500 188123 
+
+ERROR 2023-04-28 18:13:23,691 basehttp 17623 140063726245632 "GET /admin/shaw_queue/order/?q=test HTTP/1.1" 500 182818 
+
+ERROR 2023-05-25 13:06:18,506 basehttp 26488 140398653863680 "GET /admin/delivery/deliveryactive/ HTTP/1.1" 500 191394 
+
+ERROR 2023-05-25 14:30:43,099 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:30:53,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:31:04,810 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:31:15,827 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:31:26,874 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:31:37,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:31:48,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:31:59,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:32:10,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:32:21,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:32:32,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:32:43,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:32:54,844 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:33:05,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:33:16,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:33:27,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:33:38,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:33:49,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:34:00,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:34:11,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:34:22,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:34:33,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:34:44,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:34:55,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:35:06,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:35:17,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:35:28,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:35:39,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:35:50,794 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:36:01,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:36:12,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:36:23,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:36:34,812 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:36:45,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:36:56,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:37:07,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:37:18,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:37:29,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:37:40,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:37:51,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:38:02,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:38:13,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:38:24,799 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:38:35,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:38:46,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:38:57,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:39:08,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:39:19,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:39:30,793 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:39:41,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:39:52,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:40:03,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:40:14,867 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:40:25,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:40:36,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:40:47,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:40:58,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:41:09,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:41:20,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:41:31,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:41:42,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:41:53,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:42:04,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:42:15,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:42:26,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:42:37,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:42:48,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:42:59,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:43:10,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:43:21,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:43:32,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:43:43,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:43:54,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:44:05,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:44:16,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:44:27,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:44:38,795 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:44:49,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:45:00,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:45:11,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:45:22,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:45:33,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:45:44,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:45:55,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:46:06,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:46:17,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:46:28,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:46:39,776 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:46:50,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:47:01,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:47:12,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:47:23,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:47:34,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:47:45,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:47:56,859 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:48:07,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:48:18,793 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:48:29,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:48:40,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:48:51,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:49:02,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:49:13,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:49:24,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:49:35,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:49:46,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:49:57,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:50:08,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:50:19,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:50:30,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:50:41,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:50:52,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:51:03,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:51:14,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:51:25,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:51:36,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:51:47,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:51:58,795 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:52:09,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:52:20,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:52:31,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:52:42,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:52:53,776 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:53:04,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:53:15,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:53:26,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:53:37,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:53:48,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:53:59,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:54:10,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:54:21,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:54:32,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:54:43,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:54:54,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:55:05,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:55:16,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:55:27,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:55:38,865 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:55:49,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:56:00,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:56:11,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:56:22,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:56:33,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:56:44,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:56:55,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:57:06,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:57:17,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:57:28,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:57:39,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:57:50,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:58:01,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:58:12,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:58:23,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:58:34,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:58:45,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:58:56,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:59:07,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:59:18,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:59:29,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:59:40,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 14:59:51,793 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:00:02,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:00:13,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:00:24,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:00:35,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:00:46,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:00:57,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:01:08,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:01:19,776 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:01:30,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:01:41,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:01:52,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:02:03,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:02:14,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:02:25,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:02:36,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:02:47,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:02:58,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:03:09,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:03:20,860 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:03:31,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:03:42,798 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:03:53,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:04:04,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:04:15,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:04:26,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:04:37,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:04:48,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:04:59,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:05:10,797 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:05:21,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:05:32,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:05:43,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:05:54,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:06:05,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:06:16,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:06:27,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:06:38,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:06:49,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:07:00,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:07:11,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:07:22,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:07:33,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:07:44,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:07:55,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:08:06,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:08:17,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:08:28,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:08:39,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:08:50,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:09:01,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:09:12,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:09:23,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:09:34,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:09:45,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:09:56,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:10:07,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:10:18,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:10:29,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:10:40,776 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:10:51,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:11:02,798 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:11:13,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:11:24,863 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:11:35,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:11:46,794 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:11:57,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:12:08,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:12:19,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:12:30,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:12:41,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:12:52,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:13:03,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:13:13,906 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:13:24,027 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:13:34,147 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:13:44,268 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:13:54,389 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:14:04,505 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:14:14,629 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:14:24,744 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:14:34,858 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:14:44,974 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:14:55,098 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:15:05,208 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:15:15,328 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:15:25,449 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:15:35,569 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:15:45,701 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:15:55,813 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:16:05,927 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:16:16,048 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:16:26,170 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:16:36,291 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:16:46,409 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:16:56,534 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:17:06,638 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:17:16,756 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:17:26,872 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:17:37,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:17:48,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:17:59,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:18:10,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:18:21,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:18:32,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:18:43,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:18:54,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:19:05,879 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:19:16,794 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:19:27,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:19:38,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:19:49,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:20:00,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:20:11,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:20:22,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:20:33,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:20:44,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:20:55,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:21:06,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:21:17,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:21:28,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:21:39,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:21:50,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:22:01,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:22:12,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:22:23,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:22:34,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:22:45,802 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:22:56,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:23:07,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:23:18,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:23:29,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:23:40,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:23:51,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:24:02,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:24:13,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:24:24,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:24:35,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:24:46,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:24:57,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:25:08,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:25:19,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:25:30,776 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:25:41,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:25:52,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:26:03,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:26:14,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:26:25,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:26:36,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:26:47,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:26:58,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:27:09,877 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:27:20,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:27:31,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:27:42,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:27:53,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:28:04,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:28:15,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:28:26,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:28:37,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:28:48,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:28:59,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:29:10,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:29:21,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:29:32,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:29:43,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:29:54,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:30:05,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:30:16,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:30:27,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:30:38,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:30:49,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:31:00,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:31:11,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:31:22,775 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:31:33,796 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:31:44,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:31:55,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:32:06,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:32:17,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:32:28,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:32:39,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:32:50,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:33:01,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:33:12,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:33:23,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:33:34,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:33:45,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:33:56,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:34:07,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:34:18,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:34:29,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:34:40,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:34:51,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:35:02,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:35:13,871 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:35:24,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:35:35,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:35:46,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:35:57,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:36:08,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:36:19,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:36:30,846 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:36:41,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:36:52,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:37:03,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:37:14,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:37:25,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:37:36,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:37:47,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:37:58,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:38:09,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:38:20,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:38:31,795 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:38:42,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:38:53,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:39:04,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:39:15,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:39:26,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:39:37,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:39:48,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:39:59,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:40:10,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:40:21,800 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:40:32,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:40:43,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:40:54,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:41:05,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:41:16,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:41:27,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:41:38,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:41:49,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:42:00,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:42:11,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:42:22,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:42:33,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:42:44,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:42:55,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:43:06,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:43:17,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:43:28,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:43:39,868 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:43:50,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:44:01,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:44:12,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:44:23,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:44:34,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:44:45,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:44:56,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:45:07,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:45:18,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:45:29,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:45:40,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:45:51,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:46:02,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:46:13,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:46:24,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:46:35,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:46:46,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:46:57,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:47:08,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:47:19,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:47:30,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:47:41,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:47:52,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:48:03,776 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:48:14,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:48:25,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:48:36,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:48:47,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:48:58,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:49:09,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:49:20,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:49:31,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:49:42,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:49:53,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:50:04,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:50:15,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:50:26,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:50:37,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:50:48,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:50:59,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:51:10,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:51:21,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:51:32,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:51:43,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:51:54,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:52:05,874 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:52:16,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:52:27,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:52:38,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:52:49,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:53:00,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:53:11,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:53:22,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:53:33,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:53:44,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:53:55,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:54:06,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:54:17,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:54:28,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:54:39,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:54:50,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:55:01,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:55:12,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:55:23,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:55:34,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:55:45,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:55:56,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:56:07,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:56:18,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:56:29,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:56:40,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:56:51,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:57:02,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:57:13,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:57:24,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:57:35,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:57:46,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:57:57,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:58:08,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:58:19,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:58:30,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:58:41,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:58:52,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:59:03,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:59:14,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:59:25,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:59:36,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:59:47,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 15:59:58,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:00:09,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:00:20,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:00:31,871 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:00:42,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:00:53,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:01:04,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:01:15,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:01:26,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:01:37,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:01:48,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:01:59,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:02:10,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:02:21,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:02:32,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:02:43,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:02:54,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:03:05,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:03:16,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:03:27,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:03:38,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:03:49,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:04:00,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:04:11,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:04:22,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:04:33,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:04:44,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:04:55,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:05:06,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:05:17,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:05:28,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:05:39,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:05:50,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:06:01,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:06:12,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:06:23,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:06:34,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:06:45,792 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:06:56,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:07:07,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:07:18,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:07:29,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:07:40,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:07:51,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:08:02,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:08:13,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:08:24,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:08:35,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:08:46,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:08:57,795 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:09:08,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:09:19,872 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:09:30,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:09:41,793 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:09:52,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:10:03,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:10:14,778 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:10:25,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:10:36,793 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:10:47,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:10:58,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:11:09,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:11:20,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:11:31,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:11:42,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:11:53,793 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:12:04,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:12:15,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:12:26,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:12:37,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:12:48,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:12:59,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:13:10,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:13:21,789 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:13:32,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:13:43,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:13:54,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:14:05,790 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:14:16,782 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:14:27,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:14:38,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:14:49,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:15:00,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:15:11,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:15:22,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:15:33,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:15:44,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:15:55,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:16:06,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:16:17,779 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:16:28,777 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:16:39,781 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:16:50,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:17:01,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:17:12,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:17:23,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:17:34,784 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:17:45,787 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:17:56,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:18:07,881 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:18:18,785 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:18:29,788 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:18:40,780 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:18:51,791 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:19:02,786 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-05-25 16:19:13,783 basehttp 29994 140569137977088 "GET /shaw_queue/ajax/current_queue_ajax.html HTTP/1.1" 500 92192 
+
+ERROR 2023-06-29 10:33:21,113 basehttp 30863 140110003369728 "GET /shaw_queue/menu/ HTTP/1.1" 500 213832 
+
+ERROR 2023-06-29 10:59:23,593 basehttp 33716 140136528475904 "POST /shaw_queue/api/sms/pay/ HTTP/1.1" 500 81142 
+
+ERROR 2023-06-29 11:07:09,995 basehttp 33716 140136503297792 "POST /shaw_queue/api/sms/pay/ HTTP/1.1" 500 81142 
+
+ERROR 2023-06-29 11:07:43,617 basehttp 34376 140234969020160 "POST /shaw_queue/api/sms/pay/ HTTP/1.1" 500 81142 
+
+ERROR 2023-06-29 11:08:52,900 basehttp 34418 140349154588416 "POST /shaw_queue/api/sms/pay/ HTTP/1.1" 500 100938 
+
+ERROR 2023-06-29 11:09:22,671 basehttp 34501 139857351898880 "POST /shaw_queue/api/sms/pay/ HTTP/1.1" 500 100958 
+
+ERROR 2023-06-29 11:09:56,569 basehttp 34523 140623922362112 "POST /shaw_queue/api/sms/pay/ HTTP/1.1" 500 95647 
+
+ERROR 2023-08-08 08:08:48,449 basehttp 17479 140182967809792 "GET /admin/main/notebtn/ HTTP/1.1" 500 441158 
+
+ERROR 2023-08-29 16:01:23,057 basehttp 8100 140699479557888 "POST /admin/main/excelbase/ HTTP/1.1" 500 130932 
+
+ERROR 2023-08-29 16:02:44,620 basehttp 8174 140669305747200 "POST /admin/main/excelbase/ HTTP/1.1" 500 130963 
+
+ERROR 2023-08-29 16:03:21,123 basehttp 8209 139804907951872 "POST /admin/main/excelbase/ HTTP/1.1" 500 130941 
+
+ERROR 2023-08-29 16:04:39,269 basehttp 8263 140695411095296 "POST /admin/main/excelbase/ HTTP/1.1" 500 130780 
+
+ERROR 2023-08-29 16:08:10,313 basehttp 8397 140099712997120 "POST /admin/main/excelbase/ HTTP/1.1" 500 130772 
+
+ERROR 2023-08-29 16:20:49,097 basehttp 8897 140715298051840 "POST /admin/main/excelbase/ HTTP/1.1" 500 169719 
+
+ERROR 2023-09-29 01:57:58,076 basehttp 43571 140298012784384 "POST /shaw_queue/ajax/unvoice HTTP/1.1" 500 208379 
+
+ERROR 2023-09-29 01:58:02,104 basehttp 43571 140298012784384 "POST /shaw_queue/ajax/unvoice HTTP/1.1" 500 208309 
+
+ERROR 2023-09-29 01:58:04,923 basehttp 43571 140298012784384 "POST /shaw_queue/ajax/unvoice HTTP/1.1" 500 208799 
+
+ERROR 2023-10-16 22:51:39,014 basehttp 65454 140485747201792 "GET /shaw_queue/burgerman_interface HTTP/1.1" 500 176806 
+
+ERROR 2023-10-16 23:00:39,875 basehttp 65931 139674140010240 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:00:54,867 basehttp 65931 139674140010240 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:00:55,674 basehttp 65931 139674140010240 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:01:03,236 basehttp 65931 139674140010240 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:01:05,876 basehttp 65931 139674140010240 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:01:06,340 basehttp 65931 139674140010240 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:01:17,739 basehttp 66057 140113116092160 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:01:23,304 basehttp 66057 140113116092160 "POST /shaw_queue/cook_pause HTTP/1.1" 500 81089 
+
+ERROR 2023-10-16 23:23:01,382 basehttp 67314 140186379831040 "POST /shaw_queue/burger_i_ajax HTTP/1.1" 500 86817 
+
+ERROR 2023-10-16 23:23:01,407 basehttp 67314 140186388223744 "POST /shaw_queue/burger_i_ajax HTTP/1.1" 500 86817 
+
+ERROR 2023-10-16 23:23:03,289 basehttp 67314 140186379831040 "POST /shaw_queue/burger_i_ajax HTTP/1.1" 500 86817 
+
+ERROR 2023-10-16 23:23:03,298 basehttp 67314 140186388223744 "POST /shaw_queue/burger_i_ajax HTTP/1.1" 500 86817 
+
+ERROR 2023-10-16 23:23:05,390 basehttp 67314 140186388223744 "POST /shaw_queue/burger_i_ajax HTTP/1.1" 500 86817 
+
+ERROR 2023-10-16 23:23:05,394 basehttp 67314 140186336032512 "POST /shaw_queue/burger_i_ajax HTTP/1.1" 500 86817 
+
+ERROR 2023-10-29 12:08:08,804 basehttp 12132 139665357141760 "GET /shaw_queue/buyer_queue/ HTTP/1.1" 500 79764 
+
+ERROR 2023-11-06 12:39:57,630 basehttp 30527 140351128749824 "GET /admin/shaw_queue/sizeoption/5/change/ HTTP/1.1" 500 169850 
+
+ERROR 2023-11-06 12:40:24,114 basehttp 30567 139738693256960 "GET /admin/shaw_queue/sizeoption/5/change/ HTTP/1.1" 500 169925 
+
+ERROR 2023-11-10 10:52:37,332 basehttp 13354 139992512853760 "GET /shaw_queue/new_menu/ HTTP/1.1" 500 87542 
+
+ERROR 2023-11-10 16:12:55,199 basehttp 24043 140261427443456 "GET /shaw_queue/new_menu/ HTTP/1.1" 500 99262 
+
