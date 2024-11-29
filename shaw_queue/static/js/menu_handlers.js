@@ -548,6 +548,16 @@ function ShowModalEdit(index) {
     var note18 = $('#note18');
     var note19 = $('#note19');
     var note20 = $('#note20');
+    var note21 = $('#note21');
+    var note22 = $('#note22');
+    var note23 = $('#note23');
+    var note24 = $('#note24');
+    var note25 = $('#note25');
+    var note26 = $('#note26');
+    var note27 = $('#note27');
+    var note28 = $('#note28');
+    var note29 = $('#note29');
+    var note30 = $('#note30');
 
     title.text(currOrder[index]['title']);
     quantity.val(currOrder[index]['quantity']);
@@ -834,6 +844,57 @@ function ShowModalEdit(index) {
             addNote(note20.attr('title'))
         }
     );
+    note21.click(
+        function () {
+            addNote(note21.attr('title'))
+        }
+    );
+    note22.click(
+        function () {
+            addNote(note22.attr('title'))
+        }
+    );
+    note23.click(
+        function () {
+            addNote(note23.attr('title'))
+        }
+    );
+    note24.click(
+        function () {
+            addNote(note24.attr('title'))
+        }
+    );
+    note25.click(
+        function () {
+            addNote(note25.attr('title'))
+        }
+    );
+    note26.click(
+        function () {
+            addNote(note26.attr('title'))
+        }
+    );
+    note27.click(
+        function () {
+            addNote(note27.attr('title'))
+        }
+    );
+    note28.click(
+        function () {
+            addNote(note28.attr('title'))
+        }
+    );
+    note29.click(
+        function () {
+            addNote(note29.attr('title'))
+        }
+    );
+    note30.click(
+        function () {
+            addNote(note30.attr('title'))
+        }
+    );
+
 
     function addNote(title) {
         var str = ' ' + title;
@@ -1001,6 +1062,16 @@ function CloseModalEdit() {
     note18.off("click");
     note19.off("click");
     note20.off("click");
+    note21.off("click");
+    note22.off("click");
+    note23.off("click");
+    note24.off("click");
+    note25.off("click");
+    note26.off("click");
+    note27.off("click");
+    note28.off("click");
+    note29.off("click");
+    note30.off("click");
 
     modal.style.display = "none";
     DrawOrderTable()
